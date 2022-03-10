@@ -2,4 +2,4 @@
 
 ./starter_files/spiral_planner&
 sleep 1.0
-python3 simulatorAPI.py
+python3.7 simulatorAPI.py
